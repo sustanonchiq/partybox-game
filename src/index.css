@@ -1,0 +1,6 @@
+@import url("shared/styles/fonts.scss");
+@import url("shared/styles/globals.scss");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
